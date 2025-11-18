@@ -1,4 +1,4 @@
-![Banner](/assets/gitbanner.gif)
+![Banner](https://i.ibb.co/ycRH0WCr/gitbanner.png)
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Sami</h1>
 <h3 align="center">CSE Student | MERN Stack Developer</h3>
