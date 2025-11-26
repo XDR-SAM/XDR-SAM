@@ -1,7 +1,7 @@
 ![Banner](/assets/gitbanner.gif)
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Sami</h1>
-<h3 align="center">CSE Student | MERN Stack Developer</h3>
+<h3 align="center"> FUll Stack Developer</h3>
 
 ---
 
