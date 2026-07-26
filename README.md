@@ -75,7 +75,7 @@
 
 | 🔥 Streak | 📊 Stats | 🏆 Top Languages |
 |:---------:|:--------:|:----------------:|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xdr-sam&theme=tokyonight&card_width=320) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdr-sam&show_icons=true&theme=tokyonight&locale=en&card_width=320) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=xdr-sam&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=320) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xdr-sam&theme=tokyonight&card_width=320) | ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?user=xdr-sam&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?user=xdr-sam&theme=tokyonight&hide_border=true) |
 
 </div>
 
