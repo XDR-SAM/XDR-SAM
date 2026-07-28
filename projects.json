@@ -1,0 +1,38 @@
+[
+  {
+    "name": "devpulse",
+    "repo": "XDR-SAM/devpulse",
+    "description": "CLI tool that analyzes your local git history to give you actionable insights into your development patterns and productivity.",
+    "tags": ["Python"]
+  },
+  {
+    "name": "ESP32-LLM-Gateway",
+    "repo": "XDR-SAM/ESP32-LLM-Gateway",
+    "description": "Open-source hardware AI gateway for ESP32-S3 with Cloudflare Worker and OpenAI-compatible API.",
+    "tags": ["TypeScript"]
+  },
+  {
+    "name": "artify_client",
+    "repo": "XDR-SAM/artify_client",
+    "description": "Frontend for a modern digital art platform with smooth UI, artist profiles, and fast search.",
+    "tags": ["JavaScript"]
+  },
+  {
+    "name": "live-tv-viewer",
+    "repo": "XDR-SAM/live-tv-viewer",
+    "description": "Live TV channel viewer with HLS playback, quality selector, and sports channel playlist.",
+    "tags": ["TypeScript"]
+  },
+  {
+    "name": "LeadMonster",
+    "repo": "XDR-SAM/LeadMonster",
+    "description": "A complete automated lead selling platform.",
+    "tags": []
+  },
+  {
+    "name": "EchoMind",
+    "repo": "XDR-SAM/EchoMind---Real-Time-Conversation-Intelligence",
+    "description": "Real-time conversation intelligence project.",
+    "tags": ["Python"]
+  }
+]
