@@ -16,7 +16,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git clone https://x-access-token:${GH_TOKEN}@github.com/XDR-SAM/XDR-SAM.git .
+          git clone https://${GH_TOKEN}@github.com/XDR-SAM/XDR-SAM.git .
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -33,5 +33,5 @@ jobs:
         run: |
           git add dist/*.svg
           git diff --cached --quiet || git commit -m "chore: update snake game svgs"
-          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/XDR-SAM/XDR-SAM.git
+          git remote set-url origin https://${GH_TOKEN}@github.com/XDR-SAM/XDR-SAM.git
           git push origin HEAD:main
