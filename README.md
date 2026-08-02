@@ -43,12 +43,12 @@
 
 <!-- Stats + Top languages — side by side -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=XDR-SAM&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=XDR-SAM&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=XDR-SAM&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=XDR-SAM&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=XDR-SAM&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDR-SAM&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=XDR-SAM&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=XDR-SAM&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
 </picture>
 
 </div>
@@ -122,7 +122,7 @@
 
 | 🔥 Streak | 📊 Stats | 🏆 Top Languages |
 |:---------:|:--------:|:----------------:|
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=xdr-sam&theme=tokyonight&card_width=320) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdr-sam&show_icons=true&theme=tokyonight&locale=en&card_width=320) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=xdr-sam&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=320) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=xdr-sam&theme=tokyonight&card_width=320) | ![GitHub Stats](https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=xdr-sam&show_icons=true&theme=tokyonight&locale=en&card_width=320) | ![Top Langs](https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs?username=xdr-sam&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=320) |
 
 </div>
 
