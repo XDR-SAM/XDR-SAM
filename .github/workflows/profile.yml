@@ -1,0 +1,44 @@
+name: Refresh living profile
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, design/ai-first-profile]
+    paths:
+      - README.md
+      - scripts/update_profile.py
+      - scripts/test_update_profile.py
+      - .github/workflows/profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Check refresh logic
+        run: python -m unittest discover -s scripts -p 'test_*.py'
+      - name: Fetch public activity and render assets
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/update_profile.py
+      - name: Commit refreshed profile
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md assets/live
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'chore: refresh public profile activity [skip ci]'
+          git push

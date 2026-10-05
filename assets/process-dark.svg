@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="205" viewBox="0 0 1200 205" role="img" aria-labelledby="title desc">
+<title id="title">Question. Experiment. Evaluate. Build. Operate.</title><desc id="desc">Custom orbital network artwork for Abdullah Al Sami. AI, machine learning research, and software engineering.</desc>
+<style>
+:root{--bg:#10130F;--ink:#F1F2E9;--muted:#A9B1A2;--accent:#C1F76D;--line:#30392B}
+text{font-family:Arial,Helvetica,sans-serif} .mono{font-family:Consolas,'Liberation Mono',monospace;letter-spacing:2px}
+.orbit{transform-origin:0px 0px;animation:orbit 36s linear infinite}
+.signal{animation:signal 6s ease-in-out infinite}
+.flow{stroke-dasharray:5 12;animation:flow 12s linear infinite}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes signal{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes flow{to{stroke-dashoffset:-170}}
+@media(prefers-reduced-motion:reduce){.orbit,.signal,.flow{animation:none}}
+</style>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="var(--line)"/></pattern>
+<radialGradient id="glow"><stop stop-color="var(--accent)" stop-opacity=".12"/><stop offset="1" stop-color="var(--accent)" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="205" rx="22" fill="var(--bg)"/><rect x="1" y="1" width="1198" height="203" rx="21" fill="url(#grid)" stroke="var(--line)"/>
+<text x="42" y="46" font-size="13" fill="var(--muted)" class="mono">FROM QUESTION TO SYSTEM</text><path d="M65 103 H1090" stroke="var(--line)" stroke-width="2"/><path d="M65 103 H1090" class="flow" stroke="var(--accent)" stroke-width="2"/><circle cx="65" cy="103" r="7" fill="var(--bg)" stroke="var(--accent)" stroke-width="2"/><text x="49" y="148" font-size="22" fill="var(--ink)" font-weight="700">Question</text><text x="49" y="174" font-size="13" fill="var(--muted)" >Define the problem</text><circle cx="320" cy="103" r="7" fill="var(--bg)" stroke="var(--accent)" stroke-width="2"/><text x="304" y="148" font-size="22" fill="var(--ink)" font-weight="700">Experiment</text><text x="304" y="174" font-size="13" fill="var(--muted)" >Test the assumptions</text><circle cx="575" cy="103" r="7" fill="var(--bg)" stroke="var(--accent)" stroke-width="2"/><text x="559" y="148" font-size="22" fill="var(--ink)" font-weight="700">Evaluate</text><text x="559" y="174" font-size="13" fill="var(--muted)" >Measure what matters</text><circle cx="830" cy="103" r="7" fill="var(--bg)" stroke="var(--accent)" stroke-width="2"/><text x="814" y="148" font-size="22" fill="var(--ink)" font-weight="700">Build</text><text x="814" y="174" font-size="13" fill="var(--muted)" >Make it useful</text><circle cx="1085" cy="103" r="7" fill="var(--bg)" stroke="var(--accent)" stroke-width="2"/><text x="1069" y="148" font-size="22" fill="var(--ink)" font-weight="700">Operate</text><text x="1069" y="174" font-size="13" fill="var(--muted)" >Keep it reliable</text>
+</svg>
