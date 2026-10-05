@@ -1,155 +1,130 @@
-<div align="center">
-
-![Banner](assets/gitbanner.gif)
-
-# 👋 Hey there, I'm Abdullah Al Sami
-
-### 🔥 Full Stack Developer & Creative Technologist
-
----
-
-</div>
-
-<!-- ===== THEME-AWARE HERO SVG ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XDR-SAM/XDR-SAM/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XDR-SAM/XDR-SAM/main/light.svg">
-  <img alt="Abdullah Al Sami" src="https://raw.githubusercontent.com/XDR-SAM/XDR-SAM/main/light.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hero-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/hero-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="Abdullah Al Sami — Curiosity into intelligence. Exploring AI, researching ML, and building the systems around them.">
 </picture>
 
-<!-- ===== GITHUB STATS ===== -->
+<p align="center">
+  <a href="https://github.com/XDR-SAM?tab=repositories"><b>Explore my work ↗</b></a>
+  &nbsp; / &nbsp;
+  <a href="https://linkedin.com/in/al-sami-io">LinkedIn</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:tdxfarhan@gmail.com">Get in touch</a>
+</p>
 
-<div align="center">
+# Research-minded. Product-driven.
 
-<!-- Streak — full width -->
+I'm **Abdullah Al Sami**, a developer working across **AI, machine learning, and ML research**. I like understanding how models behave, testing ideas through experiments, and turning them into software people can use.
+
+My work also spans **Shopify, payment integrations, business dashboards, full-stack development, and DevOps** — the interfaces, services, and infrastructure that turn an idea into a working system.
+
+**Currently focused on →** ML reliability and evaluation, language models, AI tooling, and practical AI applications.
+
+<br>
+
+## 01 / Areas of focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI & machine learning
+
+Language models, AI applications, model routing, and experiments that connect intelligent systems to useful interfaces.
+
+**Explore → prototype → integrate**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 ML research
+
+Model evaluation, confidence, temporal shift, and reproducible experiments. Clear questions, explicit limitations, and evidence before claims.
+
+**Hypothesize → measure → iterate**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Commerce & products
+
+Shopify storefronts, payment workflows, operational dashboards, and full-stack applications built around real business needs.
+
+**Design → build → ship**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙ Infrastructure & DevOps
+
+Cloud services, containers, deployment pipelines, and the backend systems that keep applications running.
+
+**Deploy → observe → improve**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 02 / Selected work
+
+A few public projects that connect my research interests with what I build.
+
+| Project | What I'm exploring or building |
+| :--- | :--- |
+| **[Typed Decision Reliability ↗](https://github.com/XDR-SAM/Typed-decision-reliability-Research-Study)**<br>ML RESEARCH | A feasibility pilot studying confidence gates under temporal shift, using chronological splits, TF-IDF, and logistic regression. Includes evaluation, audits, and a protocol for the next stage. |
+| **[TinyGPT ↗](https://github.com/XDR-SAM/tinygpt)**<br>DEEP LEARNING | A small character-level transformer trained on Shakespeare, with CPU training and CLI/web generation. A hands-on exploration of language modeling. |
+| **[Bifrost Model Router ↗](https://github.com/XDR-SAM/bifrost-model-router)**<br>AI INFRASTRUCTURE | A model-routing layer that connects provider catalogs and API formats, with Docker-based setup and route-aware credential handling. |
+| **[ESP32 LLM Gateway ↗](https://github.com/XDR-SAM/ESP32-LLM-Gateway)**<br>AI × HARDWARE | An ESP32-S3 gateway with a Cloudflare Worker, an outbound WebSocket tunnel, and an OpenAI-compatible API. |
+| **[Newmrkt Shopify Theme ↗](https://github.com/XDR-SAM/newmrkt-howaizen-theme)**<br>COMMERCE | A Shopify Horizon theme export for the Newmrkt storefront — part of my work on commerce experiences. |
+| **[LPG Distribution Management ↗](https://github.com/XDR-SAM/LPG-Distribution-Management)**<br>BUSINESS SOFTWARE | A distribution management application covering inventory, billing, payments, accounts, and reporting, with an AI operations assistant. |
+
+<p align="right"><a href="https://github.com/XDR-SAM?tab=repositories"><b>More experiments, tools, and applications ↗</b></a></p>
+
+<br>
+
+## 03 / My working toolkit
+
+| Layer | Tools & interests |
+| :--- | :--- |
+| **AI & research** | Python · language models · deep learning · model evaluation · reproducible experiments |
+| **Interfaces** | TypeScript · JavaScript · React · Next.js · Tailwind CSS · Figma |
+| **Commerce & payments** | Shopify · Liquid · Stripe · payment integrations · business dashboards |
+| **Backend & data** | Node.js · Express · PostgreSQL · MongoDB · Supabase |
+| **Cloud & delivery** | AWS · Docker · Linux · Git · GitHub Actions · Cloudflare · Vercel |
+
+<br>
+
+## 04 / How I approach the work
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=XDR-SAM&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=XDR-SAM&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Streak" />
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/process-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/process-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg">
+  <img src="assets/process-light.svg" width="100%" alt="My process: question, experiment, evaluate, build, and operate.">
 </picture>
 
-<br/>
+- **Start with a question.** Define the problem and what a useful result would look like.
+- **Make the experiment honest.** Establish baselines, inspect failures, and document limitations.
+- **Connect research to a product.** Give ideas an interface, a workflow, and a path to deployment.
+- **Think beyond the demo.** Consider maintainability, observability, and the people using it.
 
-<!-- Stats + Top languages — side by side -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=XDR-SAM&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=XDR-SAM&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=XDR-SAM&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=XDR-SAM&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
-</picture>
-
-</div>
-
-<!-- ===== END STATS ===== -->
-<br/>
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=500&lines=Building+the+future,one+line+at+a+time" alt="Typing SVG" />
-</p>
-
-<div align="center">
-
-### ✨ What I'm Working On
-
-![](https://img.shields.io/badge/-🔭-Bu--Room--Automation--WebApp-1e293b?style=for-the-badge&logo=🚀)
-![](https://img.shields.io/badge/-🌱-React.js+%26+Next.js-1e293b?style=for-the-badge&logo=⚛️)
-![](https://img.shields.io/badge/-💡-IoT+%26+Automation-1e293b?style=for-the-badge&logo=💡)
-
-</div>
-
----
-
-## 🚀 Tech Stack
-
-### 🎨 Frontend & Design
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-| 🔥 Streak | 📊 Stats | 🏆 Top Languages |
-|:---------:|:--------:|:----------------:|
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=xdr-sam&theme=tokyonight&card_width=320) | ![GitHub Stats](https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=xdr-sam&show_icons=true&theme=tokyonight&locale=en&card_width=320) | ![Top Langs](https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs?username=xdr-sam&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=320) |
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=xdr-sam&label=Profile%20views&color=7C3AED&style=for-the-badge)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/al-sami-io" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/mrbrowncastel" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/mrbrowncastel" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://gitlab.com/XDR-SAM" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>
-  <a href="mailto:tdxfarhan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br>
 
 ---
 
 <div align="center">
 
-### 💬 Let's Collaborate!
+### A good question is a great place to start.
 
-<p>
-  I'm always excited to work on new projects and explore innovative ideas.<br/>
-  Feel free to reach out if you want to build something amazing together!
-</p>
+I'm interested in conversations about **AI/ML research, intelligent products,<br>Shopify, and the systems that make software useful.**
 
-⭐️ From [Abdullah Al Sami](https://github.com/xdr-sam)
+**[Let's connect on LinkedIn ↗](https://linkedin.com/in/al-sami-io)** &nbsp; · &nbsp; **[Send me an email ↗](mailto:tdxfarhan@gmail.com)**
+
+<sub>Abdullah Al Sami &nbsp; / &nbsp; XDR-SAM &nbsp; / &nbsp; Always experimenting.</sub>
 
 </div>
