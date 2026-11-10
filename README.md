@@ -130,6 +130,8 @@ A few public projects that connect my research interests with what I build.
 
 <br>
 
+**Little Work Box** — I build free browser tools for working with PDFs, images and data, including invoice validation and file checks. [Explore Little Work Box](https://littleworkbox.com/).
+
 ## 03 / My working toolkit
 
 ### AI & machine learning
