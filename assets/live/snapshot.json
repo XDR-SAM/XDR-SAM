@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 15:11 UTC",
+  "updated": "2026-11-12 23:36 UTC",
   "days": [
     {
       "date": "2025-11-09",
@@ -155,7 +155,7 @@
     },
     {
       "date": "2025-12-17",
-      "count": 5
+      "count": 4
     },
     {
       "date": "2025-12-18",
@@ -1475,37 +1475,45 @@
     },
     {
       "date": "2026-11-12",
-      "count": 0
+      "count": 4
     }
   ],
-  "commits": 553,
-  "contributions": 1530,
-  "current_streak": 12,
+  "commits": 556,
+  "contributions": 1533,
+  "current_streak": 13,
   "longest_streak": 26,
-  "public_repos": 123,
+  "public_repos": 124,
   "stars": 6,
   "language_sample": 30,
   "languages": {
-    "TypeScript": 2755978,
+    "Python": 632551,
+    "TeX": 39078,
+    "PowerShell": 1000,
+    "Shell": 24832,
+    "TypeScript": 2742571,
     "Dockerfile": 8024,
     "PLpgSQL": 26651,
-    "CSS": 99421,
+    "CSS": 98493,
     "HTML": 3209317,
-    "JavaScript": 724218,
-    "Python": 481551,
+    "JavaScript": 723659,
     "Jupyter Notebook": 377535,
     "Go": 145909,
     "Nix": 26897,
-    "Shell": 24557,
     "Just": 661,
     "Liquid": 2140807,
     "Makefile": 227,
     "Mermaid": 965,
     "C++": 19051,
-    "PowerShell": 685,
     "CMake": 424
   },
   "projects": [
+    {
+      "name": "soil-salinity-ml-research",
+      "url": "https://github.com/XDR-SAM/soil-salinity-ml-research",
+      "description": "Reproducible spatial and cross-year soil electrical conductivity benchmark for coastal Bangladesh",
+      "language": "Python",
+      "pushed": "2026-11-12"
+    },
     {
       "name": "openboard-room",
       "url": "https://github.com/XDR-SAM/openboard-room",
@@ -1540,13 +1548,6 @@
       "description": "Bifrost model router - Codex routing and model catalog management",
       "language": "Go",
       "pushed": "2026-09-24"
-    },
-    {
-      "name": "fashion-mnist-DEEP-LEARNING",
-      "url": "https://github.com/XDR-SAM/fashion-mnist-DEEP-LEARNING",
-      "description": null,
-      "language": null,
-      "pushed": "2026-08-28"
     }
   ]
 }
