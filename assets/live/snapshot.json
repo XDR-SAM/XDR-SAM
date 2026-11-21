@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21 07:03 UTC",
+  "updated": "2026-11-21 19:13 UTC",
   "days": [
     {
       "date": "2025-11-16",
@@ -163,7 +163,7 @@
     },
     {
       "date": "2025-12-26",
-      "count": 11
+      "count": 9
     },
     {
       "date": "2025-12-27",
@@ -1483,26 +1483,26 @@
     },
     {
       "date": "2026-11-21",
-      "count": 2
+      "count": 5
     }
   ],
-  "commits": 505,
-  "contributions": 1479,
+  "commits": 506,
+  "contributions": 1480,
   "current_streak": 5,
   "longest_streak": 26,
-  "public_repos": 126,
+  "public_repos": 128,
   "stars": 6,
   "language_sample": 30,
   "languages": {
-    "HTML": 3452885,
-    "CSS": 149264,
-    "JavaScript": 733724,
+    "HTML": 5104218,
+    "CSS": 1197946,
+    "JavaScript": 828708,
     "Python": 632551,
     "TeX": 39078,
-    "PowerShell": 1000,
+    "PowerShell": 315,
     "Shell": 24832,
-    "TypeScript": 2728656,
-    "Dockerfile": 8024,
+    "TypeScript": 2675144,
+    "Dockerfile": 7888,
     "PLpgSQL": 26651,
     "Jupyter Notebook": 377535,
     "Go": 145909,
@@ -1510,11 +1510,16 @@
     "Just": 661,
     "Liquid": 2140807,
     "Makefile": 227,
-    "Mermaid": 965,
-    "C++": 19051,
-    "CMake": 424
+    "Mermaid": 965
   },
   "projects": [
+    {
+      "name": "tenfo-html-clone-public",
+      "url": "https://github.com/XDR-SAM/tenfo-html-clone-public",
+      "description": null,
+      "language": "HTML",
+      "pushed": "2026-11-21"
+    },
     {
       "name": "groovy-shisha-demo",
       "url": "https://github.com/XDR-SAM/groovy-shisha-demo",
@@ -1549,13 +1554,6 @@
       "description": "LPG Distribution Management is a complete business management system designed for LPG distributors, godown owners, and wholesale suppliers in Bangladesh. It helps manage cylinder stock, purchases, sales, dealer/customer dues, empty cylinder returns, supplier accounts, delivery, expenses, payments, invoices, and business reports from one place.",
       "language": "TypeScript",
       "pushed": "2026-10-04"
-    },
-    {
-      "name": "Typed-decision-reliability-Research-Study",
-      "url": "https://github.com/XDR-SAM/Typed-decision-reliability-Research-Study",
-      "description": null,
-      "language": "HTML",
-      "pushed": "2026-10-03"
     }
   ]
 }
