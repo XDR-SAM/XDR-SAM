@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20 20:14 UTC",
+  "updated": "2026-11-21 07:03 UTC",
   "days": [
     {
       "date": "2025-11-16",
@@ -159,7 +159,7 @@
     },
     {
       "date": "2025-12-25",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2025-12-26",
@@ -1479,27 +1479,31 @@
     },
     {
       "date": "2026-11-20",
-      "count": 0
+      "count": 1
+    },
+    {
+      "date": "2026-11-21",
+      "count": 2
     }
   ],
-  "commits": 503,
-  "contributions": 1477,
-  "current_streak": 3,
+  "commits": 505,
+  "contributions": 1479,
+  "current_streak": 5,
   "longest_streak": 26,
-  "public_repos": 125,
+  "public_repos": 126,
   "stars": 6,
   "language_sample": 30,
   "languages": {
+    "HTML": 3452885,
+    "CSS": 149264,
+    "JavaScript": 733724,
     "Python": 632551,
     "TeX": 39078,
     "PowerShell": 1000,
     "Shell": 24832,
-    "TypeScript": 2742571,
+    "TypeScript": 2728656,
     "Dockerfile": 8024,
     "PLpgSQL": 26651,
-    "CSS": 98493,
-    "HTML": 3209317,
-    "JavaScript": 723659,
     "Jupyter Notebook": 377535,
     "Go": 145909,
     "Nix": 26897,
@@ -1511,6 +1515,13 @@
     "CMake": 424
   },
   "projects": [
+    {
+      "name": "groovy-shisha-demo",
+      "url": "https://github.com/XDR-SAM/groovy-shisha-demo",
+      "description": "Groovy Shisha lounge demo \u2014 Makeza X Octatech",
+      "language": "HTML",
+      "pushed": "2026-11-20"
+    },
     {
       "name": "soil-salinity-ml-research",
       "url": "https://github.com/XDR-SAM/soil-salinity-ml-research",
@@ -1545,13 +1556,6 @@
       "description": null,
       "language": "HTML",
       "pushed": "2026-10-03"
-    },
-    {
-      "name": "bifrost-model-router",
-      "url": "https://github.com/XDR-SAM/bifrost-model-router",
-      "description": "Bifrost model router - Codex routing and model catalog management",
-      "language": "Go",
-      "pushed": "2026-09-24"
     }
   ]
 }
