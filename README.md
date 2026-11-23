@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://github.com/XDR-SAM?tab=repositories"><b>Explore my work ↗</b></a>
   &nbsp; / &nbsp;
+  <a href="https://www.makezaa.com/">Makezaa Studio</a>
+  &nbsp; / &nbsp;
   <a href="https://linkedin.com/in/al-sami-io">LinkedIn</a>
   &nbsp; / &nbsp;
   <a href="mailto:tdxfarhan@gmail.com">Get in touch</a>
