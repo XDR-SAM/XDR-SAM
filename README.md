@@ -101,14 +101,14 @@ Cloud services, containers, deployment pipelines, and the backend systems that k
 <!-- LATEST-PROJECTS:START -->
 | Recently pushed project | Language | Last push (UTC) |
 | :--- | :--- | :--- |
+| **[Sami-Portfolio-NExt-JS](https://github.com/XDR-SAM/Sami-Portfolio-NExt-JS)**<br>Explore the repository for project details. | JavaScript | 2026-11-25 |
 | **[tenfo-html-clone-public](https://github.com/XDR-SAM/tenfo-html-clone-public)**<br>Explore the repository for project details. | HTML | 2026-11-21 |
 | **[groovy-shisha-demo](https://github.com/XDR-SAM/groovy-shisha-demo)**<br>Groovy Shisha lounge demo — Makeza X Octatech | HTML | 2026-11-20 |
 | **[soil-salinity-ml-research](https://github.com/XDR-SAM/soil-salinity-ml-research)**<br>Reproducible spatial and cross-year soil electrical conductivity benchmark for coastal Bangladesh | Python | 2026-11-12 |
 | **[openboard-room](https://github.com/XDR-SAM/openboard-room)**<br>Openboard Room - collaborative whiteboard rooms | TypeScript | 2026-10-19 |
 | **[canvas-collab](https://github.com/XDR-SAM/canvas-collab)**<br>Explore the repository for project details. | TypeScript | 2026-10-19 |
-| **[LPG-Distribution-Management](https://github.com/XDR-SAM/LPG-Distribution-Management)**<br>LPG Distribution Management is a complete business management system designed for LPG distributors, godown owners, and wholesale suppliers in Bangladesh. It … | TypeScript | 2026-10-04 |
 
-<sub>Updated 2026-11-25 08:30 UTC · Public, non-fork, non-archived repos, sorted by latest push. Automated pushes can also appear.</sub>
+<sub>Updated 2026-11-25 21:39 UTC · Public, non-fork, non-archived repos, sorted by latest push. Automated pushes can also appear.</sub>
 <!-- LATEST-PROJECTS:END -->
 
 <details>

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 08:30 UTC",
+  "updated": "2026-11-25 21:39 UTC",
   "days": [
     {
       "date": "2025-11-23",
@@ -1471,25 +1471,25 @@
     },
     {
       "date": "2026-11-25",
-      "count": 0
+      "count": 2
     }
   ],
-  "commits": 480,
-  "contributions": 1455,
-  "current_streak": 1,
+  "commits": 481,
+  "contributions": 1457,
+  "current_streak": 2,
   "longest_streak": 26,
   "public_repos": 128,
   "stars": 6,
   "language_sample": 30,
   "languages": {
-    "HTML": 5104218,
-    "CSS": 1197946,
-    "JavaScript": 828708,
+    "JavaScript": 930451,
+    "CSS": 1202087,
+    "HTML": 5080195,
     "Python": 632551,
     "TeX": 39078,
     "PowerShell": 315,
     "Shell": 24832,
-    "TypeScript": 2675144,
+    "TypeScript": 2653533,
     "Dockerfile": 7888,
     "PLpgSQL": 26651,
     "Jupyter Notebook": 377535,
@@ -1501,6 +1501,13 @@
     "Mermaid": 965
   },
   "projects": [
+    {
+      "name": "Sami-Portfolio-NExt-JS",
+      "url": "https://github.com/XDR-SAM/Sami-Portfolio-NExt-JS",
+      "description": null,
+      "language": "JavaScript",
+      "pushed": "2026-11-25"
+    },
     {
       "name": "tenfo-html-clone-public",
       "url": "https://github.com/XDR-SAM/tenfo-html-clone-public",
@@ -1535,13 +1542,6 @@
       "description": null,
       "language": "TypeScript",
       "pushed": "2026-10-19"
-    },
-    {
-      "name": "LPG-Distribution-Management",
-      "url": "https://github.com/XDR-SAM/LPG-Distribution-Management",
-      "description": "LPG Distribution Management is a complete business management system designed for LPG distributors, godown owners, and wholesale suppliers in Bangladesh. It helps manage cylinder stock, purchases, sales, dealer/customer dues, empty cylinder returns, supplier accounts, delivery, expenses, payments, invoices, and business reports from one place.",
-      "language": "TypeScript",
-      "pushed": "2026-10-04"
     }
   ]
 }
