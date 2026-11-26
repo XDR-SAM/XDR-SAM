@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 08:14 UTC",
+  "updated": "2026-11-26 21:29 UTC",
   "days": [
     {
       "date": "2025-11-23",
@@ -195,7 +195,7 @@
     },
     {
       "date": "2026-01-10",
-      "count": 5
+      "count": 3
     },
     {
       "date": "2026-01-11",
@@ -1475,20 +1475,21 @@
     },
     {
       "date": "2026-11-26",
-      "count": 1
+      "count": 5
     }
   ],
-  "commits": 481,
-  "contributions": 1458,
+  "commits": 482,
+  "contributions": 1460,
   "current_streak": 3,
   "longest_streak": 26,
-  "public_repos": 128,
+  "public_repos": 130,
   "stars": 6,
   "language_sample": 30,
   "languages": {
-    "JavaScript": 930451,
-    "CSS": 1202087,
-    "HTML": 5080195,
+    "HTML": 5339583,
+    "JavaScript": 1087405,
+    "CSS": 1311807,
+    "Batchfile": 46,
     "Python": 632551,
     "TeX": 39078,
     "PowerShell": 315,
@@ -1505,6 +1506,13 @@
     "Mermaid": 965
   },
   "projects": [
+    {
+      "name": "bar-topas",
+      "url": "https://github.com/XDR-SAM/bar-topas",
+      "description": "Static HTML and Tailwind CSS copy of the T\u00f2pas website",
+      "language": "HTML",
+      "pushed": "2026-11-26"
+    },
     {
       "name": "Sami-Portfolio-NExt-JS",
       "url": "https://github.com/XDR-SAM/Sami-Portfolio-NExt-JS",
@@ -1537,13 +1545,6 @@
       "name": "openboard-room",
       "url": "https://github.com/XDR-SAM/openboard-room",
       "description": "Openboard Room - collaborative whiteboard rooms",
-      "language": "TypeScript",
-      "pushed": "2026-10-19"
-    },
-    {
-      "name": "canvas-collab",
-      "url": "https://github.com/XDR-SAM/canvas-collab",
-      "description": null,
       "language": "TypeScript",
       "pushed": "2026-10-19"
     }
