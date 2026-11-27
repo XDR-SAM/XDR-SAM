@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 08:27 UTC",
+  "updated": "2026-11-27 21:14 UTC",
   "days": [
     {
       "date": "2025-11-23",
@@ -227,7 +227,7 @@
     },
     {
       "date": "2026-01-18",
-      "count": 7
+      "count": 6
     },
     {
       "date": "2026-01-19",
@@ -235,7 +235,7 @@
     },
     {
       "date": "2026-01-20",
-      "count": 6
+      "count": 5
     },
     {
       "date": "2026-01-21",
@@ -1479,22 +1479,22 @@
     },
     {
       "date": "2026-11-27",
-      "count": 0
+      "count": 5
     }
   ],
-  "commits": 482,
-  "contributions": 1460,
-  "current_streak": 3,
+  "commits": 483,
+  "contributions": 1463,
+  "current_streak": 4,
   "longest_streak": 26,
-  "public_repos": 130,
+  "public_repos": 131,
   "stars": 6,
   "language_sample": 30,
   "languages": {
-    "HTML": 5339583,
-    "JavaScript": 1087405,
+    "HTML": 119127706,
+    "Python": 669781,
+    "JavaScript": 1106025,
+    "Batchfile": 86,
     "CSS": 1311807,
-    "Batchfile": 46,
-    "Python": 632551,
     "TeX": 39078,
     "PowerShell": 315,
     "Shell": 24832,
@@ -1510,6 +1510,13 @@
     "Mermaid": 965
   },
   "projects": [
+    {
+      "name": "world-wide-services",
+      "url": "https://github.com/XDR-SAM/world-wide-services",
+      "description": "Local archive of the World Wide Services public frontend",
+      "language": "HTML",
+      "pushed": "2026-11-27"
+    },
     {
       "name": "bar-topas",
       "url": "https://github.com/XDR-SAM/bar-topas",
@@ -1544,13 +1551,6 @@
       "description": "Reproducible spatial and cross-year soil electrical conductivity benchmark for coastal Bangladesh",
       "language": "Python",
       "pushed": "2026-11-12"
-    },
-    {
-      "name": "openboard-room",
-      "url": "https://github.com/XDR-SAM/openboard-room",
-      "description": "Openboard Room - collaborative whiteboard rooms",
-      "language": "TypeScript",
-      "pushed": "2026-10-19"
     }
   ]
 }

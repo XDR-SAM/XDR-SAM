@@ -101,14 +101,14 @@ Cloud services, containers, deployment pipelines, and the backend systems that k
 <!-- LATEST-PROJECTS:START -->
 | Recently pushed project | Language | Last push (UTC) |
 | :--- | :--- | :--- |
+| **[world-wide-services](https://github.com/XDR-SAM/world-wide-services)**<br>Local archive of the World Wide Services public frontend | HTML | 2026-11-27 |
 | **[bar-topas](https://github.com/XDR-SAM/bar-topas)**<br>Static HTML and Tailwind CSS copy of the Tòpas website | HTML | 2026-11-26 |
 | **[Sami-Portfolio-NExt-JS](https://github.com/XDR-SAM/Sami-Portfolio-NExt-JS)**<br>Explore the repository for project details. | JavaScript | 2026-11-25 |
 | **[tenfo-html-clone-public](https://github.com/XDR-SAM/tenfo-html-clone-public)**<br>Explore the repository for project details. | HTML | 2026-11-21 |
 | **[groovy-shisha-demo](https://github.com/XDR-SAM/groovy-shisha-demo)**<br>Groovy Shisha lounge demo — Makeza X Octatech | HTML | 2026-11-20 |
 | **[soil-salinity-ml-research](https://github.com/XDR-SAM/soil-salinity-ml-research)**<br>Reproducible spatial and cross-year soil electrical conductivity benchmark for coastal Bangladesh | Python | 2026-11-12 |
-| **[openboard-room](https://github.com/XDR-SAM/openboard-room)**<br>Openboard Room - collaborative whiteboard rooms | TypeScript | 2026-10-19 |
 
-<sub>Updated 2026-11-27 08:27 UTC · Public, non-fork, non-archived repos, sorted by latest push. Automated pushes can also appear.</sub>
+<sub>Updated 2026-11-27 21:14 UTC · Public, non-fork, non-archived repos, sorted by latest push. Automated pushes can also appear.</sub>
 <!-- LATEST-PROJECTS:END -->
 
 <details>
